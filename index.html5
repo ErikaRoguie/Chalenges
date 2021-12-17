@@ -1,5 +1,5 @@
-<!DOCTYPE html5>
-<html lang="en-us">
+<!DOCTYPE html5git>
+< lang="en-us">
 
 <head>
     <meta charset="UTF-8" />
@@ -71,12 +71,13 @@
             </p>
         </div>
     </div>
-    <div class="footer">
+    
+</body>
+<footer>
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
-    </div>
-</body>
+    </footer>
 
 </html>
